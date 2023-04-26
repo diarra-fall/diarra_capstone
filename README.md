@@ -23,18 +23,31 @@ As a resident of a city that does not have many public transportation options, I
 
 ## Data Sources
 The following data sources were used in this project:
+
 	- Rental Bicycle Data from Divvy (https://divvy-tripdata.s3.amazonaws.com/index.html)
+	
 	- Chicago’s Open Data Site:
+	
 		○ Private Transportation Datasets:
+		
 			§ Transportation Network Providers (Rideshare) Trips (https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p)
+			
 			§ Taxi Trips (https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)
+			
 		○ Public Transportation Datasets:
+		
 			§ Bus Routes (https://data.cityofchicago.org/Transportation/CTA-Bus-Routes-Shapefile/d5bx-dr8z)
+			
 			§ Bus Stops (https://data.cityofchicago.org/Transportation/CTA-Bus-Stops-Shapefile/pxug-u72f)
+			
 			§ L-Rail Lines (https://data.cityofchicago.org/Transportation/CTA-L-Rail-Lines-Shapefile/53r7-y88m)
+			
 			§ L-Rail Stations (https://data.cityofchicago.org/dataset/CTA-L-Rail-Stations-Shapefile/vmyy-m9qj)
+			
 			§ Metra Lines (https://data.cityofchicago.org/Transportation/Metra-Lines/q8wx-dznq)
+			
 			§ Metra Stations (https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym)
+			
 		○ Zip Code Boundaries (https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-ZIP-Codes/gdcf-axmw)
 	
 
